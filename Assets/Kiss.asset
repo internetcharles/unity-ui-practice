@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db192ff42f776f64bbb409dc116ade0b, type: 3}
+  m_Name: Kiss
+  m_EditorClassIdentifier: 
+  storyText: You kiss him. He kisses back. You're making out with this man in the
+    bank. Suddenly you've forgotten why you were here, what beans are, who even knows?
+    The mystery of this existence grows uninteresting, as for now you are happy enough
+    kissing the bean man in the bank.
+  nextStates: []

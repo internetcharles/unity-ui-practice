@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db192ff42f776f64bbb409dc116ade0b, type: 3}
+  m_Name: Room 1
+  m_EditorClassIdentifier: 
+  storyText: 'You ask for one of his beans in return for your investment. He hands
+    you a large green bean. You eat it. Euphoria. You feel as though your life if
+    about to change.
+
+
+    1. Kiss the man on the lips.
+
+    2. Beat the shit out
+    of him and take his beans.'
+  nextStates:
+  - {fileID: 11400000, guid: 6f2248f998a83fa47a9591ef4f762b84, type: 2}
+  - {fileID: 11400000, guid: 61be4f2e33d434748a50fad27492db81, type: 2}

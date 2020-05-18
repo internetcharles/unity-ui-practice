@@ -13,5 +13,8 @@ MonoBehaviour:
   m_Name: StartingState
   m_EditorClassIdentifier: 
   storyText: "You walk into a bank, a man in a stained brown duster asks you if you'd
-    like into invest in the \"future of beans.\"\n            Do you:\n           
+    like into invest in the \"future of beans.\"\n\n            Do you:\n\n           
     1. Give him $500\n            2. Tell him to fuck off."
+  nextStates:
+  - {fileID: 11400000, guid: 97921aced62de994ca2012e6c50bdc41, type: 2}
+  - {fileID: 11400000, guid: d2a98b74257478a47873087fee1b4ace, type: 2}
